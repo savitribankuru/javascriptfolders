@@ -1,0 +1,28 @@
+html,body{
+    margin-top: 10%;
+    margin-left: 20%;
+    background-color: aqua;
+
+}
+#counter{
+    margin-left: 30%;
+}
+.head{
+    color: blueviolet;
+    font-size: 40px;
+}
+#increment{
+    padding: 20px 20px;
+    border-radius: 5px;
+    background-color: red;
+}
+#decrement{
+    padding: 20px 20px;
+    border-radius: 5px;
+    background-color: chartreuse;
+}
+#reset{
+    padding: 20px 20px;
+    border-radius: 5px;
+    background-color: black;
+}
