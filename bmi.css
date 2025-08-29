@@ -1,0 +1,50 @@
+body {
+  background-color: aqua;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 350px;
+  margin: 80px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#heading {
+  color: darkblue;
+  margin-bottom: 20px;
+}
+
+input {
+  display: block;
+  width: 40%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 2px solid cadetblue;
+  border-radius: 5px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+#bmi {
+  background-color: green;
+}
+
+#res {
+  background-color: red;
+}
